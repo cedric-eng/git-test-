@@ -1,0 +1,22 @@
+$ git config --global user.name "cedric-eng"
+$ git config --global user.email "dukecedric7@gmail.com"
+$ git status
+<html>
+<head>
+<h1>Hello everyone</h1>
+<p>this was hard at the start so i used githubdesktop</p>
+h {
+background-colour :#dddddd;
+}
+p {
+background-colour :#ffd800;
+}
+<a href="https://github.com/cedric-eng/git-test-.git"cedric</a>
+$ git add README.md
+$ git commit -m "Adde the title in README.md"
+[master 06a2bd6] commit２
+ 1 file changed, 1 insertion(+)
+ $ git branch hoge
+$ git branch
+  hoge
+* master
