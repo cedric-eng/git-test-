@@ -14,3 +14,4 @@ Changes to be committed:
         +++ b/README.md
         @@ -0,0 +1 @@
         +gitTutorial
+ <h1> hello mentors it was really hardfor me at the beginning and i apologize for not providing this intime but i promise i will catch up iam starting to understand the way git works slowly by slow by nextweek i i will be doing better thank you for your motivation sometimes i dont want to ask questions without doing enough research until i fail completely as you told me to be agood engineer i have to be a problem solver thank you all </h1> 
